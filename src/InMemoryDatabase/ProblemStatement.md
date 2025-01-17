@@ -1,4 +1,4 @@
-Design an in-memory sql database. Functionalities required were -
+# Design an in-memory sql database. Functionalities required were -
 
 
 It should be possible to create or delete tables in a database.
