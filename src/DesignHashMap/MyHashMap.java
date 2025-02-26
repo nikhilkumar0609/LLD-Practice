@@ -1,8 +1,5 @@
 package DesignHashMap;
 
-import HashMap.MyHashMap;
-import HashMap.MyHashMap.Entry;
-
 public class MyHashMap<K, V> {
 	
 	private static final int INITIAL_SIZE = 1 << 4;
